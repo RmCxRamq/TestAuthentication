@@ -1,0 +1,12 @@
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\bin\Release\net6.0\BorrarTest.Shared.deps.json
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\bin\Release\net6.0\BorrarTest.Shared.dll
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\bin\Release\net6.0\BorrarTest.Shared.pdb
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.csproj.AssemblyReference.cache
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.AssemblyInfoInputs.cache
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.AssemblyInfo.cs
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.dll
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\refint\BorrarTest.Shared.dll
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\BorrarTest.Shared.pdb
+C:\Users\Morgan\source\repos\TestAuthentication\BorrarTest\Shared\obj\Release\net6.0\ref\BorrarTest.Shared.dll
